@@ -1,6 +1,10 @@
 # Estructuradedatos
 # Xitlali Gonzalez
+<<<<<<< HEAD
 ### Estructura y Organizacion de Datos
+=======
+### Estructura y organizacion de datos Instituto  Tecnologuico De Pabellon De Arteaga
+>>>>>>> 49906e9d7a3445e193c89757247107ac2bc10459
 Instituto Tecnológico de
 Toluca, del 10 al 13 de
 febrero de 2014.
@@ -73,4 +77,7 @@ estructuras de datos.
 lineales de acuerdo al problema a resolver.
  Identificar las estructuras de datos estáticas y
 dinámicas de acuerdo al problema a resolver.
+<<<<<<< HEAD
 # Estructuradedatos
+=======
+>>>>>>> 49906e9d7a3445e193c89757247107ac2bc10459
