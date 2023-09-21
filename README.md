@@ -81,3 +81,12 @@ dinámicas de acuerdo al problema a resolver.
 # Estructuradedatos
 =======
 >>>>>>> 49906e9d7a3445e193c89757247107ac2bc10459
+>>>>>>> ###########CONCEPTOS##########
+Algoritmo:un conjunto ordenado y finito de operaciones simples a través del cual podemos hallar la solución a un problema.
+Estructura:La palabra estructura se refiere a la disposición y distribución de las partes de un todo, cuyo orden y relación entre sí permiten el funcionamiento de un determinado sistema.
+Datos:Un dato es la representación de una variable que puede ser cuantitativa o cualitativa que indica un valor que se le asigna a las cosas y se representa a través de una secuencia de símbolos, números o letras.
+Informacion:La información es un conjunto organizado de datos relevantes para uno o más sujetos que extraen de él un conocimiento.
+Metadatos:Los metadatos son datos sobre datos. En otras palabras, es información que se usa para describir los datos contenidos en algo como una página web, documento o archivo. Otra forma de pensar en los metadatos es como una breve explicación o resumen de lo que son los datos.
+BigData:El big data está formado por conjuntos de datos de mayor tamaño y más complejos, especialmente procedentes de nuevas fuentes de datos.
+Ciencia de datos:La ciencia de datos es un enfoque multidisciplinar para obtener información de valor a partir de una cantidad de datos cada vez mayor. Los productos de ciencia de datos ayudan a encontrar el valor de los datos.
+Base de datos:Una base de datos es una recopilación organizada de información o datos estructurados, que normalmente se almacena de forma electrónica en un sistema informático. Las bases de datos incluyen desde bases de datos relacionales hasta bases de datos en la nube.
